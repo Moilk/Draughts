@@ -1,0 +1,8 @@
+#ifndef OPTIONS_H
+#define OPTIONS_H
+
+#include<QDialog>
+#include "ui_options"
+
+
+#endif // OPTIONS_H
